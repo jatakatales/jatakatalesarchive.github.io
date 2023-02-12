@@ -1,1 +1,1 @@
-# Enter content here that will go on the top of homepage
+<!-- Enter content here that will go on the top of homepage -->
